@@ -87,7 +87,7 @@ button:hover {
   display: flex;
   justify-content: space-around;
   border: 1px silver solid;
-  padding: 1em;
+  padding: 0.5em;
 }
 
 #img-contact {
